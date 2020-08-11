@@ -31,8 +31,8 @@ banner='''{}{}\t
 
                         Filter Domain / Country
 
-                             Re-coded by : MAD-HACKER
-					Telegram: @madhacker
+                             Re-coded by : WhiteHatHacks
+					Telegram: @alex14324
 							 
                                  
                        ++++++++++++++++++++++++++++++++++
@@ -46,7 +46,7 @@ siyass='''\n\n{}{}
                   \ / \ \ /\ / / _ \ | |_) | \| || || \| | | _ 
                    / \ \ V V / ___ \| _ <| |\ || || |\ | |_| |
                  /_/\_\ \_/\_/_/ \_\_| \_\_| \_|___|_| \_|\____|
-                          MAD-HACKER | t.me/madhacker
+                          WhiteHatHacks | t.me/alex14324
 
 
 
